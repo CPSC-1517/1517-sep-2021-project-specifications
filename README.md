@@ -1,6 +1,6 @@
 # StarTED Project
 
-> **YOUR_NAME**
+> **YOUR_NAME** Kashish Chhabra
 >
 > **YOUR_SCENARIO** - *Include a link to the appropriate markdown (.md) document.
 
